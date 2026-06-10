@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>Maintaining an e-procurement platform for a mining company and building AI-powered tools with LLMs<br>👯 I'm looking to collaborate on<br>Open source projects involving backend systems, ML applications, or developer tools<br>🤝 I'm looking for help with<br>System design best practices and scaling distributed systems<br>🌱 I'm currently learning<br>Advanced LLM integration patterns, microservices architecture, and Go concurrency<br>💬 Ask me about<br>Debugging legacy codebases, building REST APIs, or teaching programming conceptss
+🔭 I'm an aspiring software engineer, who have worked on<br>Maintaining an e-procurement platform for a mining company and building AI-powered tools with LLMs<br>👯 I'm looking to collaborate on<br>Open source projects involving backend systems, ML applications, or developer tools<br>🤝 I'm looking for help with<br>System design best practices and scaling distributed systems<br>🌱 I'm currently learning<br>Advanced LLM integration patterns, microservices architecture, and Go concurrency<br>💬 Ask me about<br>Debugging legacy codebases, building REST APIs, or teaching programming conceptss
 
 
 ## 🌐 Socials:
